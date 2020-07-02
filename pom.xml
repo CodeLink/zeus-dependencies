@@ -65,7 +65,7 @@
 
         <!-- db -->
         <hikari-cp.version>2.7.9</hikari-cp.version>
-        <mysql-connector.version>5.1.47</mysql-connector.version>
+        <mysql-connector.version>8.0.16</mysql-connector.version>
 
         <!-- test -->
         <mockito-core.version>1.10.19</mockito-core.version>
