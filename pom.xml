@@ -58,7 +58,7 @@
         <commons-text.version>1.6</commons-text.version>
         <guava.version>23.0</guava.version>
         <jackson.version>2.9.7</jackson.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
 
         <!-- validator-->
         <javax.validation.version>2.0.1.Final</javax.validation.version>
